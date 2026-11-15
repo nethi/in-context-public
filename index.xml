@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>In Context</title>
+      <link>https://nethi.github.io/in-context-public</link>
+      <description>Last 10 notes on In Context</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>notes</title>
+    <link>https://nethi.github.io/in-context-public/notes/</link>
+    <guid>https://nethi.github.io/in-context-public/notes/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 07:53:59 GMT</pubDate>
+  </item><item>
+    <title>posts</title>
+    <link>https://nethi.github.io/in-context-public/posts/</link>
+    <guid>https://nethi.github.io/in-context-public/posts/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 07:53:59 GMT</pubDate>
+  </item><item>
+    <title>links</title>
+    <link>https://nethi.github.io/in-context-public/tags/links</link>
+    <guid>https://nethi.github.io/in-context-public/tags/links</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 07:53:59 GMT</pubDate>
+  </item><item>
+    <title>meta</title>
+    <link>https://nethi.github.io/in-context-public/tags/meta</link>
+    <guid>https://nethi.github.io/in-context-public/tags/meta</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 07:53:59 GMT</pubDate>
+  </item><item>
+    <title>blog</title>
+    <link>https://nethi.github.io/in-context-public/tags/blog</link>
+    <guid>https://nethi.github.io/in-context-public/tags/blog</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 07:53:59 GMT</pubDate>
+  </item><item>
+    <title>test</title>
+    <link>https://nethi.github.io/in-context-public/tags/test</link>
+    <guid>https://nethi.github.io/in-context-public/tags/test</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 07:53:59 GMT</pubDate>
+  </item><item>
+    <title>ai-tools</title>
+    <link>https://nethi.github.io/in-context-public/tags/ai-tools</link>
+    <guid>https://nethi.github.io/in-context-public/tags/ai-tools</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 07:53:59 GMT</pubDate>
+  </item><item>
+    <title>Tag Index</title>
+    <link>https://nethi.github.io/in-context-public/tags/</link>
+    <guid>https://nethi.github.io/in-context-public/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 07:53:59 GMT</pubDate>
+  </item><item>
+    <title>In Context</title>
+    <link>https://nethi.github.io/in-context-public/</link>
+    <guid>https://nethi.github.io/in-context-public/</guid>
+    <description><![CDATA[ In Context A public notebook for notes, links, essays, and evolving thoughts. ]]></description>
+    <pubDate>Sun, 15 Nov 2026 07:49:50 GMT</pubDate>
+  </item><item>
+    <title>Hello World</title>
+    <link>https://nethi.github.io/in-context-public/posts/hello-world</link>
+    <guid>https://nethi.github.io/in-context-public/posts/hello-world</guid>
+    <description><![CDATA[ Introductory test post in in-context exploring OpenKnowledge. ]]></description>
+    <pubDate>Sun, 15 Nov 2026 07:49:50 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
